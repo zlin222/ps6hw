@@ -1,0 +1,13 @@
+name: ps6hw
+title: ps6hw
+username:
+account: zlin22
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8472314
+bundleId: 6913254
+url: https://zlin22.shinyapps.io/ps6hw/
+when: 1677875329.07206
+lastSyncTime: 1677875329.07207
+asMultiple: FALSE
+asStatic: FALSE
