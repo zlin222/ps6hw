@@ -9,4 +9,4 @@ This data was downloaded from dataplanet, one of the world's largest repositorie
 - For the table panel, the widget on the left shows the time range, adjusted only for the range of data between 2009 and 2018. The main panel on the left shows a table with averages for the four cancers between years, which allows you to see how the data has changed and to know which cancer has the highest number of people with cancer. Similarly, the text below provides analysis and explanation.
 
 ### Link to shiny webpage
-### https://zlin22.shinyapps.io/ps6hw/?_ga=2.77927314.707174993.1677792282-177488146.1677698043
+https://zlin22.shinyapps.io/ps6hw/?_ga=2.77927314.707174993.1677792282-177488146.1677698043
